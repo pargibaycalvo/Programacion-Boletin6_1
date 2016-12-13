@@ -50,8 +50,8 @@ public class calculo {
            
     }
     public void visualizar(){
-        System.out.println( nomCliente  + " o seu número de conta é : " + numCuenta +  
-                " e actualmente ten " + sueldo + " € na súa conta" );
+        System.out.println( nomCliente  + " su numero de cuenta: " + numCuenta +  
+                " usted tiene: " + sueldo );
     }
     
     }
