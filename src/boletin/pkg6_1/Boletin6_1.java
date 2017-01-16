@@ -5,6 +5,7 @@ public class Boletin6_1 {
 
     public static void main(String[] args) {
         // Boletin 6 de pedrin visitado por harrison fork
+        // Modificacion harrison fork en busca del commit perdido
         
         calculo per1 = new calculo();
         per1.setcliente("miguel");
