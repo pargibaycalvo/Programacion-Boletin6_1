@@ -4,7 +4,7 @@ package boletin.pkg6_1;
 public class Boletin6_1 {
 
     public static void main(String[] args) {
-        // TODO code application logic here
+        // Boletin 6 de pedrin visitado por harrison fork
         
         calculo per1 = new calculo();
         per1.setcliente("miguel");
